@@ -1,0 +1,12 @@
+5 5
+Ecadc
+Dcdec
+Bddce
+Cdeeb
+Accbb
+5
+4 0 a
+3 0 c
+2 0 b
+1 0 d
+0 0 e
